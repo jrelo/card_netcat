@@ -1,5 +1,5 @@
 # card_netcat
-Porting netcat functionality to m5Cardputer
+Porting netcat functionality to M5Cardputer
 
 Basic IP:PORT connection test with option to save WiFI credentials in wifi_creds file (not secure). 
 
